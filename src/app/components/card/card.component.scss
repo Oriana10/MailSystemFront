@@ -1,0 +1,13 @@
+@use "variables" as *;
+
+.circle {
+    width: 160px;
+    height: 160px;
+    background-color: black; 
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}

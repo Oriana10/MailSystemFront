@@ -1,0 +1,202 @@
+[
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Muzzarella",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Doble Muzza",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Especial",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Napolitana",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Cantimpalo",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Fugazza",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Roquefort",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Pollo",
+      "precio": "-"
+    },
+    {
+      "categoria": "Pizzas y Pizzanesas",
+      "descripcion": "Anchoas",
+      "precio": "-"
+    },
+    {
+      "categoria": "Papas",
+      "descripcion": "Fritas",
+      "precio": "-"
+    },
+    {
+      "categoria": "Papas",
+      "descripcion": "Horno",
+      "precio": "-"
+    },
+    {
+      "categoria": "Papas",
+      "descripcion": "Fritas c/ Cheddar",
+      "precio": "-"
+    },
+    {
+      "categoria": "Papas",
+      "descripcion": "Fritas c/ Cheddar y verdeo",
+      "precio": "-"
+    },
+    {
+      "categoria": "Papas",
+      "descripcion": "Tortilla",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Lengua",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Nervio",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Aceitunas Negras",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Porotos",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Calamares",
+      "precio": "-"
+    },
+    {
+      "categoria": "Vinagretas",
+      "descripcion": "Berenjena",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Carne (Horno/Frita)",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Arabes",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Jamón y Queso (Horno/Frita)",
+      "precio": ""
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Pollo",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Cebolla y Queso",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Humita",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Verduras",
+      "precio": "-"
+    },
+    {
+      "categoria": "Empanadas XXL",
+      "descripcion": "Caprese",
+      "precio": "-"
+    },
+    {
+      "categoria": "Varios",
+      "descripcion": "Rusa",
+      "precio": "-"
+    },
+    {
+      "categoria": "Varios",
+      "descripcion": "Vitel Ton",
+      "precio": "-"
+    },
+    {
+      "categoria": "Varios",
+      "descripcion": "Arrollado de Carne",
+      "precio": "-"
+    },
+    {
+      "categoria": "Varios",
+      "descripcion": "Pionono Agridulce",
+      "precio": "-"
+    },
+    {
+      "categoria": "Varios",
+      "descripcion": "Souffle Zapallitos",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Jamón y Queso",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Calabaza y Verdura",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Primavera",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Pollo",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Cebolla y Queso",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Calabaza y Muzzarella",
+      "precio": "-"
+    },
+    {
+      "categoria": "Tartas",
+      "descripcion": "Verdura",
+      "precio": "-"
+    }
+  ]

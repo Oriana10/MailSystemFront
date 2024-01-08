@@ -1,0 +1,57 @@
+@use "variables" as *;
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 110px; 
+    background-color: $primary-color;
+    color: $seconday-color;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    .links{
+        display: flex;
+        gap: 16px;
+
+        a {
+            text-decoration: none;
+            color: $seconday-color;
+        }
+    } 
+    
+    .icons {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 60px;
+
+        .copyright {
+            color: rgb(181, 181, 181);
+            margin: 0;
+            font-size: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: $seconday-color;
+        }
+    }
+
+}
+
+@media (max-width: 600px) {
+    footer {
+        flex-direction: column;
+        height: auto;
+        
+        .links, .icons {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            margin: 20px;
+        }
+    }
+
+}

@@ -1,0 +1,21 @@
+@use "variables" as *;
+
+h1 {
+    font-family: 'Itim';font-size: 22px;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px 0 60px 0;
+}
+
+.cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+
+.body {
+    height: 100vh;
+    background-color: aqua;
+    width: 100%;
+}
