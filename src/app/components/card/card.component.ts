@@ -1,4 +1,9 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
+
+interface Card{
+  title: string;
+  description: string
+}
 
 @Component({
   selector: 'app-card',
@@ -9,9 +14,7 @@ import { Component } from '@angular/core';
 })
 
 export class CardComponent {
-  circleText: any[] = [
-    { title: 'ProGeneración y Restauración de Contraseñasductos', description: "Posibilidad de generar y restablecer contraseñas de manera segura para los correos corporativos." },
-    { title: 'Asignación de Departamentos', description: "Determinación automática del departamento correspondiente a través de la plataforma, facilitando la organización interna."},
-    { title: 'Visualización de Información Personalizada', description: "Acceso a nombres y correos electrónicos asociados a cada usuario, proporcionando una vista clara y rápida de la información corporativa."},
-  ];
+  @Input() title!:string ;
+  @Input() description!:string ;
+
 }

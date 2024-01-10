@@ -1,8 +1,7 @@
-<body>
-    <h1>Email Application</h1>
-    <div class="cards">
-        <app-card></app-card>
-        <app-card></app-card>
-        <app-card></app-card>
-    </div>
-</body>
+
+<h1>Email Application</h1>
+<div class="cards">
+    @for (item of circleText; track $index) {
+        <app-card [title]="item.title" [description]="item.description"></app-card>
+    }
+</div>
