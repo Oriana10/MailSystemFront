@@ -1,17 +1,28 @@
 @use "variables" as *;
 
-body {
-  background-color: white;
-}
-
 .sidebar {
   background-color: black;
   min-width: 250px;
-  max-width: 250px;
+  max-width: 350px;
   height: 100vh;
-}
 
-.content {
-  min-width: 100vh;
-  width: 100%;
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 30px;
+
+    h2 {
+      color: white;
+    }
+
+    p {
+      color: grey;
+      padding: 0 30px;
+      text-align: center;
+    }
+  }
+
 }

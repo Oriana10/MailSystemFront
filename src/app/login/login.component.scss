@@ -1,4 +1,21 @@
-app-navbar {
-    visibility: hidden !important;
-    display: none !important;
+.container {
+    display: flex;
+    width: 100%;
+    margin: 0;
+    padding: 0 0;
+
+    .main-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+        form {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
 }
